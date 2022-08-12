@@ -1,0 +1,7 @@
+{
+    "tasks": ["probability", "classification", "transformers", "pca"],
+    "libraries": ["pytorch", "pandas", "sklearn", "biotransformers", "biodatasets", "deepchain", "numpy"],
+    "embeddings": ["ESM1_t34_670M_UR100"],
+    "datasets": ["antibiotic-resistance"],
+    "device": ["cpu"]
+}
